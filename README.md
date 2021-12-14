@@ -1,2 +1,2 @@
 # Team4
-adriino
+Projekt Virtuaalne instrument
