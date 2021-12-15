@@ -79,7 +79,7 @@ Suhtluskanalid:
    * Rainis-Ross Tiiri - 
    * Karl Andreas Mätlik -
    * Erik Leemet - 
-   * Kätlin Maidle - Sellel korral tehnilist oskust ei saanud, aga koodis sain mõnda asja proovida ja katsetada tatgemate ja tublimate abiga. :)
+   * Kätlin Maidle - Sellel korral erilisi tehnilisi oskuseid ei saanud. Koodis sain mõnda asja proovida ning katsetada targemate ja tublimate abiga ja arduinot veidi katsetada. :)
    * Anni Aavik -
    * Kaspar Tiirik -
    * Kaspar Vakkum -
