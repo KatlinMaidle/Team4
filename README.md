@@ -79,7 +79,7 @@ Suhtluskanalid:
    * Rainis-Ross Tiiri - 
    * Karl Andreas Mätlik -
    * Erik Leemet - 
-   * Kätlin Maidle -
+   * Kätlin Maidle - a
    * Anni Aavik -
    * Kaspar Tiirik -
    * Kaspar Vakkum -
